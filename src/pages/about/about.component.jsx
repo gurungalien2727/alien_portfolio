@@ -22,11 +22,14 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Alien Gurung</strong>
-                <br /> I am a senior at Troy University studying Computer Science......
+                <br /> I am a senior at Troy University studying Computer Science. 
                 <br />
                 
+                GPA: 3.02
                
                 <br />
+
+                Expected Graduation Date: Dec 2021
                
                 <br />
                 <br /> <br />
