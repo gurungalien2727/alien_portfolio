@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/alien_portfolio/static/css/main.58ebf7dd.chunk.css",
-    "main.js": "/alien_portfolio/static/js/main.bebfcd6f.chunk.js",
-    "main.js.map": "/alien_portfolio/static/js/main.bebfcd6f.chunk.js.map",
+    "main.js": "/alien_portfolio/static/js/main.ba4f037e.chunk.js",
+    "main.js.map": "/alien_portfolio/static/js/main.ba4f037e.chunk.js.map",
     "runtime-main.js": "/alien_portfolio/static/js/runtime-main.af024725.js",
     "runtime-main.js.map": "/alien_portfolio/static/js/runtime-main.af024725.js.map",
     "static/js/2.05692b4b.chunk.js": "/alien_portfolio/static/js/2.05692b4b.chunk.js",
     "static/js/2.05692b4b.chunk.js.map": "/alien_portfolio/static/js/2.05692b4b.chunk.js.map",
     "index.html": "/alien_portfolio/index.html",
-    "precache-manifest.4dc0d82e822f5387d25179398b4d7d14.js": "/alien_portfolio/precache-manifest.4dc0d82e822f5387d25179398b4d7d14.js",
+    "precache-manifest.9243639b47b601c4aa9d7559c6890fd8.js": "/alien_portfolio/precache-manifest.9243639b47b601c4aa9d7559c6890fd8.js",
     "service-worker.js": "/alien_portfolio/service-worker.js",
     "static/css/main.58ebf7dd.chunk.css.map": "/alien_portfolio/static/css/main.58ebf7dd.chunk.css.map",
     "static/js/2.05692b4b.chunk.js.LICENSE.txt": "/alien_portfolio/static/js/2.05692b4b.chunk.js.LICENSE.txt",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.af024725.js",
     "static/js/2.05692b4b.chunk.js",
     "static/css/main.58ebf7dd.chunk.css",
-    "static/js/main.bebfcd6f.chunk.js"
+    "static/js/main.ba4f037e.chunk.js"
   ]
 }
