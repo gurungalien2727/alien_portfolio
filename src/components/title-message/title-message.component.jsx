@@ -39,16 +39,16 @@ const TitleMessage = () => (
           Hi, I am
           <br />
           <span>
-            <strong>Anand Kumar Jha</strong>
+            <strong>Alien Gurung</strong>
           </span>
         </div>
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Web Developer", "Coach", "Learner"],
+              strings: ["Computer Science Student","Full Stack Web Developer", "Mobile App Developer"],
               autoStart: true,
               loop: true,
-              delay: 50
+              delay: 80
             }}
           />
         </div>
@@ -58,3 +58,4 @@ const TitleMessage = () => (
 );
 
 export default TitleMessage;
+ 

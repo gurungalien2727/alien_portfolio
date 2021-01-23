@@ -9,44 +9,50 @@ import "./experience.styles.css";
 const Experience = () => {
   return (
     <div id="experience">
-      <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
+      <h1 className="pt-3 text-center font-details-b pb-3">Relevent Courses</h1>
       <Jumbotron className="jumbo-style">
         <Container>
           <Tilt options={{ max: 25 }}>
             <Card>
-              <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-                <Card.Img variant="top" className="img-resize" src={L_ACCENTURE} alt="Accenture logo" />
-              </Card.Header>
-              <Card.Body className="d-flex justify-content-center flex-column">
-                <div>
-                  <Card.Title className="text-center">Associate Software Engineer</Card.Title>
-                </div>
-                <div>
-                  <Card.Text className="text-center style">
-                    <strong className="body-title-style ">Full Stack Developer</strong>
-                    <br />
-                    <strong>Technology:</strong> React JS, DOTNET, C#, MS-SQL, Python
-                    <br />
-                    <strong>Duration:</strong> June 2019 - Present
-                    <br/>
-                    <strong> Description </strong>
-                    <ul className="text-left">
-                      <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>
-                      <li><strong>Developed</strong> automation system to create SQL bulk query scripts that 
-                        increased efficiency by 80% and decreased working hours from 4 hours to 30 mins per task.
-                      </li>
-                      <li><strong>Provided</strong> application maintenance while working as `Production Support`. 
-                      </li>
-                      <li><strong>Performed</strong> CRUD operations on multiple databases to load/ remove data according 
-                      to the business requirements.</li>
-                      {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
+              <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-2250: Computer Science I</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-2255: Computer Science II</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-3360: Concepts of Object Oriented Programming (Java)</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-3323: Data Strctures</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-3323: Data Strctures</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-3329: Analysis of Algorithm</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-4448: Operating Systems</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-4420: Database</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-4410: Machine Learning</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-4445: Data Communication and Networking</Card.Title>
+             </Card.Header>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-4443: Web Development</Card.Title>
+             </Card.Header>
 
-                    </ul>
-                    
-                    
-                  </Card.Text>
-                </div>
-              </Card.Body>
+             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
+              <Card.Title className="text-center">CS-3332: Software Engineering</Card.Title>
+             </Card.Header>
+
+             
             </Card>
           </Tilt>
         </Container>

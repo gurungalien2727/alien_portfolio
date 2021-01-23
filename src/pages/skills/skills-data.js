@@ -44,18 +44,8 @@ export const skills = {
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
     },
-    {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: L_SASS,
-      skillName: "Sass",
-    },
-    {
-      link: "https://getbootstrap.com/",
-      imgAltText: "Bootstrap",
-      imgSrc: L_BOOTSTRAP,
-      skillName: "Bootstrap",
-    },
+    
+    
     {
       link: "https://reactjs.org/",
       imgAltText: "React JS",
@@ -68,34 +58,7 @@ export const skills = {
       imgSrc: L_REDUX,
       skillName: "Redux",
     },
-    {
-      link: "https://reacttraining.com/react-router/",
-      imgAltText: "React Router",
-      imgSrc: L_REACT_ROUTER,
-      skillName: "React Router",
-    },
-    {
-      link: "https://material-ui.com/",
-      imgAltText: "Material-UI",
-      imgSrc: L_MATERIALUI,
-      skillName: "Material-UI",
-    },
-    {
-      link: "https://react-bootstrap.github.io/",
-      imgAltText: "React Bootstrap",
-      imgSrc: L_REACT_BOOTSTRAP,
-      skillName: "React Bootstrap",
-    },
-    {
-      link: "https://styled-components.com/",
-      imgAltText: "styled-components",
-      imgSrc: L_STYLED_COMPONENTS,
-      skillName: "styled-components",
-    },
     
-  ],
-
-  backend: [
     {
       link: "https://nodejs.org/en/",
       imgAltText: "Node.js",
@@ -109,50 +72,42 @@ export const skills = {
       skillName: "Express",
     },
     {
-      link: "https://www.djangoproject.com/",
-      imgAltText: "Django",
-      imgSrc: L_DJANGO,
-      skillName: "Django",
+      link: "https://dotnet.microsoft.com/",
+      imgAltText: ".Net",
+      imgSrc: "https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg",
+      skillName: ".NET",
     },
-    {
-      link: "https://flask.palletsprojects.com/",
-      imgAltText: "Flask",
-      imgSrc: L_FLASK,
-      skillName: "Flask",
-    },
+    
   ],
-  hostingPlatforms: [
+
+  backend: [
     {
-      link: "https://www.heroku.com/",
-      imgAltText: "Heroku",
-      imgSrc: L_HEROKU,
-      skillName: "Heroku",
+      link: "https://developer.android.com/about",
+      imgAltText: "Android Studio",
+      imgSrc: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png",
+      skillName: "Android Studio ",
     },
     {
-      link: "https://www.digitalocean.com/",
-      imgAltText: "Digital Ocean",
-      imgSrc: L_DIGITAL_OCEAN,
-      skillName: "Digital Ocean",
+      link: "https://dotnet.microsoft.com/apps/xamarin",
+      imgAltText: "Express",
+      imgSrc: "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1502742226/p7opycvzczgkbqtdeue4.png",
+      skillName: "Xamarin",
     },
-    {
-      link: "https://pages.github.com/",
-      imgAltText: "GitHub Pages",
-      imgSrc: L_GITHUB_PAGES,
-      skillName: "GitHub Pages",
-    },
+    
+
   ],
   programmingLanguages: [
     {
-      link: "https://www.javascript.com/",
-      imgAltText: "JavaScript",
-      imgSrc: L_JAVASCRIPT,
-      skillName: "JavaScript",
+      link: "https://www.oracle.com/java/technologies/javase-downloads.html",
+      imgAltText: "Java",
+      imgSrc: "https://cdn.freebiesupply.com/logos/large/2x/java-4-logo-png-transparent.png",
+      skillName: "Java",
     },
     {
-      link: "https://www.typescriptlang.org/",
-      imgAltText: "TypeScript",
-      imgSrc: L_TYPESCRIPT,
-      skillName: "TypeScript",
+      link: "https://docs.microsoft.com/en-us/dotnet/csharp/",
+      imgAltText: "C#",
+      imgSrc: "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png",
+      skillName: "C#",
     },
     {
       link: "https://www.python.org/",
@@ -161,18 +116,18 @@ export const skills = {
       skillName: "Python",
     },
     {
-      link: "https://golang.org/",
-      imgAltText: "Golang",
-      imgSrc: L_GOLANG,
-      skillName: "Golang",
+      link: "https://www.cplusplus.com/",
+      imgAltText: "C++",
+      imgSrc: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+      skillName: "C++",
     },
   ],
   databases: [
     {
-      link: "https://www.postgresql.org/",
-      imgAltText: "PostgreSQL",
-      imgSrc: L_POSTGRESQL,
-      skillName: "PostgreSQL",
+      link: "https://www.mysql.com/",
+      imgAltText: "MySQL",
+      imgSrc: "https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png",
+      skillName: "MySQL",
     },
     {
       link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
@@ -194,5 +149,14 @@ export const skills = {
       imgSrc: L_GIT,
       skillName: "GIT",
     },
+  ],
+  hostingPlatforms: [
+    {
+      link: "https://www.heroku.com/",
+      imgAltText: "Microsoft Azure",
+      imgSrc: "https://nextgate.com/wp-content/uploads/2019/06/Partner-Microsoft-Azure-logo.png",
+      skillName: "Microsoft Azure",
+    },
+   
   ],
 };
