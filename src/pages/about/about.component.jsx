@@ -24,8 +24,8 @@ const About = () => {
                 Hi there! I am <strong>&nbsp;Alien Gurung</strong>
                 <br /> I am a senior at Troy University studying Computer Science. 
                 <br />
-                
-                GPA: 3.02
+                 
+                GPA: 3.92
                
                 <br />
 
