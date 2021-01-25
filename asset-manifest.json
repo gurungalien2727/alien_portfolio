@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alien_portfolio/static/css/main.58ebf7dd.chunk.css",
-    "main.js": "/alien_portfolio/static/js/main.bb16b6e7.chunk.js",
-    "main.js.map": "/alien_portfolio/static/js/main.bb16b6e7.chunk.js.map",
+    "main.css": "/alien_portfolio/static/css/main.3c877dab.chunk.css",
+    "main.js": "/alien_portfolio/static/js/main.9dddbb32.chunk.js",
+    "main.js.map": "/alien_portfolio/static/js/main.9dddbb32.chunk.js.map",
     "runtime-main.js": "/alien_portfolio/static/js/runtime-main.af024725.js",
     "runtime-main.js.map": "/alien_portfolio/static/js/runtime-main.af024725.js.map",
     "static/js/2.05692b4b.chunk.js": "/alien_portfolio/static/js/2.05692b4b.chunk.js",
     "static/js/2.05692b4b.chunk.js.map": "/alien_portfolio/static/js/2.05692b4b.chunk.js.map",
     "index.html": "/alien_portfolio/index.html",
-    "precache-manifest.fe85219ab8b2e813b8ef36759499d46a.js": "/alien_portfolio/precache-manifest.fe85219ab8b2e813b8ef36759499d46a.js",
+    "precache-manifest.8a20b954ff0a6ada3cbf7236e81eb1db.js": "/alien_portfolio/precache-manifest.8a20b954ff0a6ada3cbf7236e81eb1db.js",
     "service-worker.js": "/alien_portfolio/service-worker.js",
-    "static/css/main.58ebf7dd.chunk.css.map": "/alien_portfolio/static/css/main.58ebf7dd.chunk.css.map",
+    "static/css/main.3c877dab.chunk.css.map": "/alien_portfolio/static/css/main.3c877dab.chunk.css.map",
     "static/js/2.05692b4b.chunk.js.LICENSE.txt": "/alien_portfolio/static/js/2.05692b4b.chunk.js.LICENSE.txt",
     "static/media/accenture-3.svg": "/alien_portfolio/static/media/accenture-3.21999f09.svg",
     "static/media/background.webp": "/alien_portfolio/static/media/background.bf989778.webp",
@@ -38,7 +38,7 @@
     "static/media/pa.png": "/alien_portfolio/static/media/pa.c7a2ff95.png",
     "static/media/pc.png": "/alien_portfolio/static/media/pc.1b69cb1b.png",
     "static/media/postgresql.svg": "/alien_portfolio/static/media/postgresql.d7c985e7.svg",
-    "static/media/pro.jpeg": "/alien_portfolio/static/media/pro.263d3093.jpeg",
+    "static/media/pro.png": "/alien_portfolio/static/media/pro.263d3093.png",
     "static/media/python.svg": "/alien_portfolio/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/alien_portfolio/static/media/react-bootstrap.83fe61b0.svg",
     "static/media/react-router.svg": "/alien_portfolio/static/media/react-router.02419671.svg",
@@ -55,7 +55,7 @@
   "entrypoints": [
     "static/js/runtime-main.af024725.js",
     "static/js/2.05692b4b.chunk.js",
-    "static/css/main.58ebf7dd.chunk.css",
-    "static/js/main.bb16b6e7.chunk.js"
+    "static/css/main.3c877dab.chunk.css",
+    "static/js/main.9dddbb32.chunk.js"
   ]
 }
