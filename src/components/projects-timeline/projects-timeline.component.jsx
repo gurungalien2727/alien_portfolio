@@ -38,7 +38,7 @@ const TimeLine = () => {
         <Events>
         {/* Project: Chef It Up With MUI */}
         <ImageEvent
-            date="12/04/2020"
+            date="September-December 2020"
             className="text-center"
             text="Chef It Up"
             src={ca}
@@ -58,7 +58,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong>  Chef It Up is a cross platform recipe search based Mobile app that suggest dish to the user based on the ingredients user input; allows user to share post with image, ingredients and instructions to prepare certain dish and also get feedback from other users.
+                        <strong>Description:</strong>  Chef It Up is a cross platform recipe search based Mobile app that suggests the list of dishes to the user based on the ingredients user input; allows user to share post with image, ingredients and instructions to prepare certain dish and also get feedback from other users.
                         
                         <hr />
                         <strong>Tech used:</strong>
@@ -114,7 +114,7 @@ const TimeLine = () => {
 
           {/* Project: Prevent Corona */}
           <ImageEvent
-            date="19/07/2020"
+            date="July 2020"
             className="text-center"
             text="Prevent Corona"
             src={pc}
@@ -194,7 +194,7 @@ const TimeLine = () => {
 
           {/* Project: Virtual Queue */}
 <ImageEvent
-            date="16/09/2020"
+            date="July 2020"
             className="text-center"
             text="Virtual Queue"
             src={vq}
@@ -265,7 +265,7 @@ around the store and to help customer keep shop safely by keeping them in a virt
 
           {/* Project: Covid-19 Map */}
           <ImageEvent
-            date="21/01/2020"
+            date="March 2020"
             className="text-center"
             text="Covid-19 Map"
             src={ma}
@@ -341,7 +341,7 @@ around the store and to help customer keep shop safely by keeping them in a virt
           {/* Project: Ecommerce Website */}
 
           <ImageEvent
-            date="14/01/2020"
+            date="September-October 2019"
             className="text-center"
             text="Ecommerce Website"
             src={ea}
@@ -426,7 +426,7 @@ for products; added a scripted bot for users to provide information about the pr
           {/* Project: Platypus */}
 
           <ImageEvent
-            date="15/12/2019"
+            date="March 2019"
             className="text-center"
             text="Platypus"
             src={pa}

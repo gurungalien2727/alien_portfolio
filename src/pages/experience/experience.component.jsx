@@ -27,9 +27,6 @@ const Experience = () => {
               <Card.Title className="text-center">CS-3323: Data Strctures</Card.Title>
              </Card.Header>
              <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
-              <Card.Title className="text-center">CS-3323: Data Strctures</Card.Title>
-             </Card.Header>
-             <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
               <Card.Title className="text-center">CS-3329: Analysis of Algorithm</Card.Title>
              </Card.Header>
              <Card.Header as="h12" className="d-flex justify-content-center flex-wrap">
