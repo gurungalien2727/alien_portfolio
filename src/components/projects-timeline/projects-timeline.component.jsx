@@ -253,7 +253,7 @@ around the store and to help customer keep shop safely by keeping them in a virt
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://devpost.com/software/prevent-corona"
+                  href="https://devpost.com/software/shopsafe-fdc1xo"
                   target="_blank"
                 >
                   WATCH VIDEO
